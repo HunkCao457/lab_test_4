@@ -6,4 +6,3 @@ os:
  - linux
 dist: 
  - trusty
- - precise
